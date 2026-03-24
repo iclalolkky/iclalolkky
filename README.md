@@ -80,3 +80,17 @@ So welcome to my tiny digital world!
 - 📧 **Email:** [iclalolukkaya67@gmail.com](mailto:iclalolukkaya67@gmail.com) 
 
 ---
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iclalolkky&show_icons=true&theme=tokyonight&hide_border=true" alt="İclal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iclalolkky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iclalolkky&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
